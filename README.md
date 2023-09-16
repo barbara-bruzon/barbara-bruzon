@@ -1,8 +1,6 @@
-### 👋 Hi there! Welcome to my GitHub profile
-##  It's great to have you here
+# 👋 Hi there! Welcome to my GitHub profile
+### It's great to have you here
 
-
-![Snake animation](https://github.com/barbara-bruzon/barbara-bruzon/blob/output/github-contribution-grid-snake.svg)
 <!--
 **barbara-bruzon/barbara-bruzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

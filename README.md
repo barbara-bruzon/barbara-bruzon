@@ -12,7 +12,7 @@
 ### Contact me at:
 <div>
   <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"></a>
-  <a href="barbara.bruzon404@outlook.com" target="_blank"><img loading="lazy" src="https://assets.stickpng.com/images/6002f9b951c2ec00048c6c76.png" width="60" height="60"></a>  
+  <a href="barbara.bruzon404@outlook.com" target="_blank"><img loading="lazy" src="outlook.png" width="60" height="60"></a>  
 </div>
 
 

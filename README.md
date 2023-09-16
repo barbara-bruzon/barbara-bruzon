@@ -1,6 +1,22 @@
 # 👋 Hi there! Welcome to my GitHub profile
 ## It's great to have you here
+
+### I am currently learning...
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" width="60" height="60" />
+</div>
+
+### Some of my interests are...
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" />
+</div>
+
 ***
+###Here are my Stats:
 <div>
 <a href="https://github.com/barbara-bruzon">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-bruzon&layout=compact&langs_count=7&theme=dracula"/>
@@ -9,10 +25,9 @@
 
 ***
 
-### Contact me at:
+### I'm also on LinkedIn
 <div>
   <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"></a>
-  <a href="barbara.bruzon404@outlook.com" target="_blank"><img loading="lazy" src="outlook.png" width="60" height="60"></a>  
 </div>
 
 

@@ -1,7 +1,9 @@
 # 👋 Hi there! Welcome to my GitHub profile
 ## It's great to have you here
 
-### I am currently learning...
+***
+
+### Tools and technologies I am currently learning
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
@@ -9,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" width="60" height="60" />
 </div>
 
-### Some of my interests are...
+### Things I look forward to learn
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" />

@@ -27,9 +27,10 @@
 
 ***
 
-### I'm also on LinkedIn
-<div>
-  <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"></a>
+### <div>
+  <p>I am also on linkedIn
+    <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"></a>
+  </p>
 </div>
 
 

@@ -2,6 +2,7 @@
 ## It's great to have you here
 
 ***
+## About me
 
 ### Tools and technologies I am currently learning
 <div>
@@ -18,7 +19,7 @@
 </div>
 
 ***
-###Here are my Stats:
+### Here are my Stats:
 <div>
 <a href="https://github.com/barbara-bruzon">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-bruzon&layout=compact&langs_count=7&theme=dracula"/>
@@ -27,9 +28,9 @@
 
 ***
 
-### <div>
+<div>
   <p>I am also on linkedIn
-    <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"></a>
+    <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>
   </p>
 </div>
 

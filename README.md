@@ -6,11 +6,13 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-bruzon&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=barbara-bruzon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 ***
+
 ### Contact me at:
 <div>
-  <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
-  <a href="barbara.bruzon404@outlook.com" target="_blank"><img loading="lazy" src="https://assets.stickpng.com/images/6002f9b951c2ec00048c6c76.png" width="40" height="40"></a>  
+  <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"></a>
+  <a href="barbara.bruzon404@outlook.com" target="_blank"><img loading="lazy" src="https://assets.stickpng.com/images/6002f9b951c2ec00048c6c76.png" width="60" height="60"></a>  
 </div>
 
 

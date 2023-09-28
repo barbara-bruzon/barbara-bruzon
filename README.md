@@ -23,7 +23,6 @@
 <div>
 <a href="https://github.com/barbara-bruzon">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-bruzon&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=barbara-bruzon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ***
@@ -33,7 +32,6 @@
     <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10" height="10"></a>
   </p>
 </div>
-
 
 
 

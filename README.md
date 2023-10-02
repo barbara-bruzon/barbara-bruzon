@@ -19,19 +19,8 @@
 </div>
 
 ***
-### Here are my Stats:
-<div>
-<a href="https://github.com/barbara-bruzon">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbara-bruzon&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-***
-
-<div>
-  <p>I am also on linkedIn
-    <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10" height="10"></a>
-  </p>
-</div>
+## My DevCard
+<a href="https://app.daily.dev/barbarabruzon"><img src="https://api.daily.dev/devcards/4d41a065d8544e31bb25ec8e9925a7ce.png?r=n7e" width="400" alt="Barbara Bruzon's Dev Card"/></a>
 
 
 

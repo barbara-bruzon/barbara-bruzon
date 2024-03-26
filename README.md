@@ -1,27 +1,45 @@
-# Welcome to my GitHub profile!
-## It's great to have you here
+<h1 align="center">Hey there 👋</h1>
 
-***
-## About me
-Majoring in System Analysis (dec/2024) and working as a DevOps intern, where I work with Python and Bash scripts, GitLab CI/CD, Jenkins and virtual machines (Linux and Windows). I am really interested in cybersecurity as well.
+###
 
-### Tools and technologies I am currently learning
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" width="60" height="60" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barbara-bruzon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-### Things I look forward to learn
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" />
+<div align="center">
+  <a href="https://br.linkedin.com/in/barbara-bruzon-60b36b23b">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:bruzon.barbara18@outlook.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+  </a>
 </div>
 
 ***
-## My DevCard
-<a href="https://app.daily.dev/barbarabruzon"><img src="https://api.daily.dev/devcards/4d41a065d8544e31bb25ec8e9925a7ce.png?r=n7e" width="300" alt="Barbara Bruzon's Dev Card"/></a>
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Barbara Bruzon, 20 years old, Brazilian<br><br>- 🔭 I’m working as DevOps Intern and majoring in System Analysis<br>- 📚 I'm currently learning Bash, TypeScript, GitLab CI/CD and how to work with virtual machines in VSphere and VMWare<br>- ⚡ In my free time I like to read, play games and watch video essays on YouTube (deep dives into a movie or anime)</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="50" alt="PowerShell logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="50" alt="Bash logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" height="50" alt="VSphere logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="50" alt="Jira logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" height="50" alt="Confluence logo" />
+</div>
+
+###
 
 ***
 ## Some badges I earned for joining Hacktoberfest 2024!

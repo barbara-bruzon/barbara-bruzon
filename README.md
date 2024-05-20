@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Barbara Bruzon, 20 years old, Brazilian<br><br>- 🔭 I’m working as DevOps Intern and majoring in System Analysis<br>- 📚 I'm currently learning Bash, TypeScript, GitLab CI/CD and how to work with virtual machines in VSphere and VMWare<br>- ⚡ In my free time I like to read, play games and watch video essays on YouTube (deep dives into a movie or anime)</p>
+<p align="left">I'm Barbara Bruzon, 20 years old, Brazilian<br><br>- 🔭 I’m working as DevOps Intern and majoring in System Analysis<br>- 📚 I'm currently learning Bash, Python, GitLab CI/CD and how to work with virtual machines (Linux and Windows) in VSphere, VMWare and ProxMox<br>- ⚡ In my free time I like to read, play games and watch video essays on YouTube (deep dives into a movie or anime)</p>
 
 ###
 
